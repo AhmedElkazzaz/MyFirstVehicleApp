@@ -20,6 +20,8 @@
 ##########################################
 # Development Tools Packages
 ##########################################
+grpcio-tools==1.59.0
+grpc-stubs==1.53.0.5
 mypy-protobuf==3.5.0
 pre-commit==3.3.3
 mypy==1.5.1

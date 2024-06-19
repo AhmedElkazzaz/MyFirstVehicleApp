@@ -4,6 +4,8 @@
 #
 #    pip-compile
 #
+grpcio-tools==1.59.0
+grpc-stubs==1.53.0.5
 build==1.0.3
     # via pip-tools
 cfgv==3.4.0
